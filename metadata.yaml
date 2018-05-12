@@ -1,0 +1,25 @@
+_repo: L--tincelle_29825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delly, pseud.
+    gutenberg_agent_id: '32965'
+    url: http://www.gutenberg.org/2009/agents/32965
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29825'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: L'étincelle
+url: http://www.gutenberg.org/ebooks/29825
